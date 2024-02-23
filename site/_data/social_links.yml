@@ -1,0 +1,8 @@
+#-------------------------------
+# Social Links
+# Example of adding a new link to the footer - {icon: "ion-logo-facebook", link: "https://facebook.com"}
+# Other icons can be found at https://ionicons.com/v4/
+social:
+- {icon: "logo-instagram", link: "https://www.instagram.com/massey.for.president/"}
+- {icon: "ios-call", link: "tel:479-957-8698"}
+- {icon: "md-mail", link: "mailto:mm204@uark.edu"}
